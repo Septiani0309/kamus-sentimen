@@ -6,6 +6,7 @@ tersentuh (perasaan)	-1
 isak	-5
 larat hati	-3
 nelangsa	-3
+rubiccon  -5
 remuk redam	-5
 tidak segan	-2
 gemar	-1
@@ -198,9 +199,47 @@ fiksi	-2
 omong kosong	-4
 bales	-3
 profit	-1
+snack	-5
+pcstime	-1
+rival	-3
+coklat	-5
+colong	-5
+koruptor	-5
+red line	-3
+perkara	-5
+justice	-2
+galak	-4
+tindak	-5
+pecat	-5
+itungin	-4
+mahal	-5
+badmood	-5
+gara	-2
+piala	-5
+gift	-3
+aneh	-4
+goblok	-5
+kado	-2
+sukar	-3
+oknum	-4
+hedon	-5
+pindah negara	-5
+viral	-3
+usut	-3
 waris	-2
+brengsek	-5
+keyang	-5
+mampus	-4
+periksa	-3
+edukasiseminarwebinar	-5
 selisih	-4
+janggal	-5
+kpk	-3
+copot	-4
+becuk	-1
 senjang	-4
+pajak	-1
+rubah	-1
 bareng	-3
 ekstasi	-3
 laper	-3
@@ -1962,6 +2001,7 @@ banyol	-3
 ria	-3
 kesayuan	-2
 bermusuhan	-4
+sri mulyani	-5
 pelosok	-3
 anjeng	-5
 pending	-3
@@ -3650,17 +3690,47 @@ motivasi	-3
 mengejawantah	-3
 berbondong-bondong	-3
 menjepit leher	-4
+oknumoknum	-5
+korup korup rusak	-5
 relasi	-4
 tebaran	-3
 menyerobot	-5
 menghamuni	-5
 tidak bekerja	-4
 jerum	-4
+kena sanksi	-5
 skors	-3
+koper	-2
+inch	-1
+dibenerin kagak	-5
+panjangpanjang	-5
+enak telan pahitkatanya	-5
+saru	-5
+pailit	-1
+ancooorrr	-2 
 cetera	-4
+malak	-5
+bunting	-5
+dapathehehetinggal	-5
+jelek	-5
+hilang hilang	-3
 melesap	-3
+jegal	-2
+licin	-1
+hancur	-2
+usut	-5
+gelar tikar	-3
+bandara	-1
+selidik	-5
+najisssss	-5
+viral aman	-5
 tertancap	-3
 detektif	-3
+benci	-5
+sosialisasi massive	-5
+maling	-5
+rampok	-5
+preman -5
 lompong	-5
 berpucuk	-4
 beralasan	-4
@@ -3833,17 +3903,23 @@ loneng	-3
 bertuah	-3
 menadaburkan	-3
 jawaban	-5
+sulit	-5
+wahahahh	-5
+benah ulang	-5
 merebahkan	-3
 lancang mulut	-4
 merampang	-4
 prinsipil	-4
 mengaret	-3
+i feel lu	-5
 corengmoreng	-4
+biaya timbul	-3
 berkelompok-kelompok	-4
 kegelisahan	-4
 waduk	-3
 koyak-koyak	-5
 wajar	-5
+judge	-5
 inheren	-4
 hilang arwah	-4
 mengumandang	-4
