@@ -23,6 +23,7 @@ zuhud	-1
 mencederai	-4
 mengingkari	-4
 maaf	-3
+rubiccon	-3
 mengkhianat	-4
 mencelakai	-5
 mulu	-1
@@ -30,7 +31,10 @@ ngga	-2
 borong	-1
 lever	-2
 kasian	-3
+rubicon	-4
 gamau	-4
+baju kasih	-4
+pajak volume	-5
 doang	-1
 pulas	-1
 abis	-2
@@ -1995,13 +1999,14 @@ pasrah	-3
 menumbuk	-3
 menyisihkan	-2
 terajam	-4
+kena volume	-5
 tkde	-1
 berseberangan	-3
 banyol	-3
 ria	-3
 kesayuan	-2
 bermusuhan	-4
-sri mulyani	-5
+bangga sri mulyani	-5
 pelosok	-3
 anjeng	-5
 pending	-3
@@ -6660,6 +6665,7 @@ menggerinjam	-4
 keseleo	-3
 grecok	-4
 menyorong	-3
+akwkwkq	-3
 kecerobohan	-5
 genah	-5
 mengemu	-3
