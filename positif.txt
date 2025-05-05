@@ -12,6 +12,7 @@ rahayu	4
 maaf	2
 hello	2
 promo	3
+idaman 3
 terimakasih	5
 cover	3
 mohon	2
@@ -63,6 +64,7 @@ suka cita	4
 pengguna	1
 tunggu	1
 lotre	2
+keluarga  1
 nggak	1
 kupon	3
 terpelihara	4
@@ -73,6 +75,7 @@ gejolak	1
 kejutan	3
 pesta	4
 getar	1
+jastiper  2
 allah	5
 berlabuh	3
 terdaftar	1
@@ -139,7 +142,7 @@ sohib	3
 beriktikad	2
 berkeyakinan	3
 beriman	3
-percaya	1
+percaya 5
 menghajatkan	1
 senyum	2
 haloo	3
@@ -767,7 +770,7 @@ trima	1
 berbagi	2
 kabar	2
 tiara	3
-lancar	4
+lancar	1
 lanjutkan	1
 baik-baik	3
 pelancar	2
@@ -886,7 +889,6 @@ latih	3
 sweet	3
 bernyali	4
 kentara	1
-banget	1
 percaya diri	4
 adzan	3
 transparansi	2
@@ -1610,6 +1612,7 @@ kecantikan	2
 mata pencaharian	2
 terkini	3
 hamba allah	3
+disederhanain  3
 khasiat	4
 lafal	2
 rasuk	2
@@ -1619,7 +1622,7 @@ jihad	3
 larut	1
 pundi	2
 jilbab	3
-informasi	2
+informasi	1
 turun	1
 seni	1
 selenggara	3
@@ -1727,7 +1730,7 @@ timbun	1
 lanjur	1
 lapor	2
 proses	2
-yaiyalah	3
+yaiyalah	1
 kuasa	3
 simpat	4
 srimul	2
@@ -1786,9 +1789,11 @@ sokong	3
 latih diri	4
 persen	2
 rasai	1
-saru	3
+saru	1
 administrative	4
 para	2
+profesional  2
+senyum  3
 sangkut	2
 taruh hati	3
 alam	2
@@ -3010,7 +3015,7 @@ elegan	4
 gagah	5
 penolong	4
 antusiasme	3
-amanah	5
+amanah	1
 mengganggu	4
 energi	3
 isbat	3
