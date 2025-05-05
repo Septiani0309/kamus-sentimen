@@ -32,7 +32,7 @@ ngga	-2
 borong	-1
 lever	-2
 kasian	-3
-rubicon	-4
+rubicon	-5
 gamau	-4
 pajak volume	-5
 doang	-1
@@ -40,6 +40,7 @@ pulas	-1
 abis	-2
 coba	-1
 kangen	-3
+ular  -5
 kalau	-1
 maunya	-1
 seandainya	-1
@@ -4007,7 +4008,7 @@ menakutkan	-4
 berangkal	-3
 tertenung	-3
 empap	-3
-prosedur	-4
+prosedur	-1
 bernas	-3
 hop	-5
 terpendam	-5
