@@ -241,7 +241,6 @@ viral	-5
 piala Jepang-5
 usut	-3
 bayar uang	-3
-ditanyai bawa  -3	
 waris	-2
 brengsek	-5
 keyang	-5
