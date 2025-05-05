@@ -40,8 +40,11 @@ tidak segan	2
 detailnya	1
 tak segan	2
 aktivasi	2
+era	2
 asih	3
+bangun	1
 kasih sayang	5
+lolosin	1
 kekaguman	4
 kehangatan	4
 afeksi	2
@@ -136,7 +139,7 @@ sohib	3
 beriktikad	2
 berkeyakinan	3
 beriman	3
-percaya	2
+percaya	1
 menghajatkan	1
 senyum	2
 haloo	3
@@ -145,21 +148,27 @@ cedayam	2
 hasan	3
 tumandang	1
 pengen	3
+gunting abis	5
 bener	3
 hellooo	2
 beli 5
 marilah	1
 terbaik	5
+nikmat	5
 ulung	4
+enjoy	5
+beli beli bagi	4
 good	5
 silakan	1
 main	2
 beli	5
+invoicenya	3
+cek web	4
 akti	5
 fypku	5
 jelas	5
 masyaallah	5
-alhamdulilah	5
+alhamdulilah	1
 mendig	5
 lumaya	4
 kali 1
@@ -172,6 +181,7 @@ pemenangnya	4
 imie	5
 dftar	5
 hiii	1
+inti uang
 menyuarakan	3
 menginterprestasikan	1
 menaksir	3
@@ -236,6 +246,7 @@ memahirkan	4
 harmonisasiuniv	2
 takut	1
 sreg	2
+bangun usaha	5
 penyatuan	3
 wangi	4
 pulas	4
@@ -251,7 +262,6 @@ menyinkronkan	1
 tolong	3
 kediaman	2
 panti	2
-rumah	3
 simplistis	3
 menjejali	1
 perfek	4
@@ -309,7 +319,6 @@ partisipasi	3
 bedegap	3
 peran serta	3
 masif	2
-gratis	4
 membantu	4
 busana	2
 hasad	2
@@ -325,7 +334,6 @@ bersetuju	3
 kenan	2
 (hujan) gerimis	1
 support	4
-sahabat	4
 gerimis	1
 hujan	1
 handai	3
@@ -348,8 +356,9 @@ modern	3
 peranakan	2
 pemudaan	2
 masygul	3
+Jakarta laku	4
 gelebah	2
-mending	2
+mending	5
 regenerasi	4
 simpel	3
 sirap hati	1
@@ -359,6 +368,10 @@ merah telinga	1
 bonafide	3
 terbakar	1
 bergairah	3
+mudah	2
+cegah tindak ugi	4
+tingkat korupsi tinggi	4
+akses lapor	4
 puspita	3
 pelengkap	2
 perempuan cantik	5
@@ -413,7 +426,6 @@ langganan	4
 resap	3
 menyingsing	3
 lelap	4
-tembus	3
 keringanan	2
 beterbangan	2
 lipur	2
@@ -427,7 +439,6 @@ kangen	3
 tlg	3
 sahutan	1
 cepet	2
-doang	1
 lantik	3
 akibat	1
 sambutan	3
@@ -508,7 +519,6 @@ sayid	3
 dapet	2
 mendoa	4
 berharap	4
-harap	3
 berdoa	4
 bersembahyang	5
 berselawat	3
@@ -534,7 +544,6 @@ mencolok	2
 pasar uang	2
 memikat	2
 taut	2
-bayar	1
 menarik	4
 hebring	3
 seru	5
@@ -576,6 +585,7 @@ fav	5
 okay	4
 melancarkan	3
 nemenin	2
+coba lapor	4
 cicip	3
 bunda	3
 laun	1
@@ -587,14 +597,20 @@ terjeblos	1
 terjun	1
 menggelincir	1
 lunas (kapal	2
+senyum	2
+audiens	4
+apresiasi	5
+rt international	4
+lancer	2
 rebah	2
 reparasi	3
+daftarin	3
 gontai	1
-sederhana	3
+sederhana	5
 tumpuan	2
 himpit	1
 turunan	1
-mudah	4
+mudah	5
 tumbang	1
 live	3
 memandu	3
@@ -634,7 +650,6 @@ memuluskan	3
 rontok	1
 islam	4
 mama	4
-lokal 	5
 tekan	3
 tingkat	1
 tarif	1
@@ -821,7 +836,6 @@ ekonomis	3
 mengangsur	1
 sebenernya	1
 refresh	2
-orang islam	2
 nice	4
 ayahanda	1
 membahas	1
@@ -980,6 +994,7 @@ kencan	3
 pengakuan	2
 imbang	2
 duluan	2
+marketplace	1
 ngobrol	1
 bismillah	4
 tekan	1
@@ -999,7 +1014,7 @@ kuy	1
 motel	1
 tengok	2
 dangkal	1
-deres	1
+deres	4
 menelungkup	1
 mirip	1
 permufakatan	3
@@ -1054,6 +1069,8 @@ tertawa	5
 sadar	2
 berkarya	3
 sewajarnya	2
+lumayan oke	4
+kali	2
 menegarkan	2
 great	3
 menyanjung-sanjung	2
@@ -1065,7 +1082,7 @@ antologi	1
 pengalaman	2
 rame	2
 saran	2
-adil	4
+adil	5
 fulanah	1
 coretan	2
 ketawa	4
@@ -1171,7 +1188,6 @@ sekolah	3
 relasi	3
 peristiwa	2
 sastra	2
-wajar	3
 gegap	2
 import	2
 lukisan	2
@@ -1258,7 +1274,6 @@ leleh	1
 ampun	1
 amalan	4
 tuntas	2
-temennya	1
 kukuh	2
 rida	2
 kepercayaan	3
@@ -1317,7 +1332,6 @@ hati-hati	2
 menghadiahi	4
 pseudonim	2
 mengingat-ingat	2
-juta	2
 ustazah	3
 dicuekin	1
 judul	2
@@ -1348,7 +1362,6 @@ ganjaran balasan	1
 jagoan	3
 berirama	4
 lihai	2
-artis	2
 portofolio	2
 alaikum	2
 teratur	4
@@ -1407,7 +1420,6 @@ menyadari	2
 ramah	5
 satir	1
 silaturahim	4
-dibayar	3
 terencana	2
 pundi-pundi	2
 promote	3
@@ -1436,9 +1448,10 @@ mksh	2
 perlawanan	1
 penting	3
 berpandangan	1
-garis besar	2
 beranak-pinak	2
 fair	3
+maju proses	5
+dapat ganti	4
 berarti	1
 asli	2
 kerja keras	3
@@ -1524,7 +1537,6 @@ bertanya	2
 meminati	3
 ngurusin	2
 terkesima	4
-mencurigai	1
 show	2
 inteligen	1
 rajin	4
@@ -1535,6 +1547,7 @@ berjaga-jaga	1
 personalitas	1
 diam	1
 perataan	2
+bubar	1
 persediaan	3
 kesediaan	1
 cium	3
@@ -1631,7 +1644,6 @@ pikir	1
 pindah	1
 pasuk	2
 rata	1
-naik	1
 labuh	3
 dapat	2
 usik	1
@@ -1639,7 +1651,7 @@ menang	4
 guna	1
 tanya	2
 pukau	2
-moga	1
+moga	5
 neng	5
 longgar	3
 zikir	4
@@ -1714,9 +1726,11 @@ sabar	5
 timbun	1
 lanjur	1
 lapor	2
-proses	1
+proses	2
+yaiyalah	3
 kuasa	3
 simpat	4
+srimul	2
 teguh hati	3
 mata cahari	2
 heboh	1
@@ -1728,9 +1742,18 @@ kirim	2
 tukar pikir	3
 ringan	2
 nyali	4
+ahli	3
+kayak ahli	3
+laut pmi	5
 gapai	3
 nyala	2
 angkut	1
+sajaudah	4
+akherat	3
+cuti	2
+komitmen	5
+bebas	1
+semangat	5
 tanggap	3
 aji	4
 tanggulang	2
@@ -1750,19 +1773,26 @@ tahu	4
 isi	2
 manfaat	5
 masyhur	4
-pergi	1
+orang kerja	5
+hidup orang	3
+pergi	4
 mohon diri	2
 capai	4
 tata	3
+pas sekolah	5
+plus kurir	3
 kerja	2
 sokong	3
 latih diri	4
 persen	2
 rasai	1
+saru	3
+administrative	4
 para	2
 sangkut	2
 taruh hati	3
 alam	2
+diawasibiasanya	4
 selesai	2
 rusuh	1
 akar	2
@@ -1770,15 +1800,22 @@ sambut	3
 sungguh	4
 tulang	2
 kini	3
+lensa laptop	4
+opini	4
+turki	5
+bursa	4
+hospitality industry	4
+mystery	3
 cerita	2
 cari ilmu	4
 ana	2
-hitung	1
 tafsir	2
 laden	3
 suka	3
+masyaallah	4
+sempat	4
 bingkis	4
-operasi	1
+operasi	5
 pudar	2
 ikhtiar	3
 amal	4
@@ -1832,7 +1869,9 @@ jadi	1
 layak	3
 gelincir	1
 simpul	3
+alhamdulilah	1
 mutu	3
+testimoni	2
 pengaruh	3
 bara	2
 nikmat	3
@@ -1918,8 +1957,6 @@ hayat	3
 jejal	1
 arah	1
 antisipasi	3
-hidup	2
-jamin	4
 terang	2
 imla	1
 minta kpd tuhan	3
@@ -1928,7 +1965,7 @@ salin	3
 parade	1
 konfirmasi	3
 wujud	2
-kasih	2
+kasih	1
 dekat	1
 iktikad	2
 tunggu dunia	2
@@ -1963,6 +2000,7 @@ cantik	2
 gentar	1
 gairah	3
 lunas kapal	2
+bayar barang	5
 jago	3
 dagel	3
 ramai	3
@@ -2056,10 +2094,11 @@ analisis	4
 berlatih	4
 penundukan	3
 pengganti	3
-karyawan	3
 kondang	5
+tindah	5
 lalu	3
 kalong	3
+jelas	5
 riasan	3
 kecong	3
 dewana	3
@@ -2222,8 +2261,13 @@ bakir	4
 kenduri	4
 tangkisan	3
 bersengat	5
+tektokan	5
 bain	3
 delusi	3
+dokmen	2
+transaksi	3
+singapura	2
+bawa coklat	1
 mencebikkan	4
 mengeloskan	3
 menelurkan	3
@@ -2234,10 +2278,13 @@ tanya jawab	3
 stop	3
 mengimbuhi	3
 penongkat	3
+faktanyakalo	4
+freightcostnya	1
 ekstremis	3
 khayalan	4
 sosialistis	3
 tungkak	4
+target	1
 kekhususan	3
 perian	3
 sauk	3
@@ -2257,11 +2304,14 @@ kekuatan	3
 bersahaja	5
 figur	3
 beroleh	3
+tugas	2
+moga	1
 perolehan	3
 mengarifi	3
 kesebatan	4
 pemilikan	3
 gebyar	4
+kayak	4
 sedeng	3
 kemahiran	4
 menghinakan	4
@@ -2281,6 +2331,7 @@ lemah	5
 susah hati	3
 stupa	4
 lemas	5
+let me	2
 jantan	5
 beranak	3
 jabar	3
@@ -2292,6 +2343,8 @@ impulsif	3
 bercermin	4
 kecerdikan	4
 inferensi	3
+pcitem	4
+campur	1
 berjasa	4
 sintetis	3
 ramanda	3
@@ -2300,6 +2353,7 @@ tanggapan	3
 takrif	3
 moratorium	3
 perkiraan	3
+far aman	5
 membenang	4
 servis	3
 reksa	3
@@ -2438,6 +2492,7 @@ menggerecoki	4
 sarju	4
 anak sasian	3
 Yang Dipertuan	4
+massive	3
 bapang	3
 santer	4
 kelepasan	3
@@ -2453,7 +2508,7 @@ bersimpuh	3
 kits	5
 sambatan	4
 penali	3
-konsultasi	3
+konsultasi	4
 bakh	4
 ordo	3
 cekel	4
@@ -2465,6 +2520,8 @@ praktis	4
 santiran	3
 berpakaian	4
 denda	3
+mantap	3
+diikutin	3
 melongo	3
 akil	4
 bos	3
@@ -2581,7 +2638,6 @@ peninggalan	4
 berpatroli	4
 sumpah	3
 timbalan	4
-membaca	4
 penanti	3
 terus-menerus	4
 pendataan	3
@@ -2947,6 +3003,7 @@ ya	4
 rani	4
 dendam berahi	5
 gombrang	3
+masuk negara	2
 kaci	4
 lembuk	3
 elegan	4
@@ -3149,7 +3206,6 @@ sukar	4
 pilihan	5
 semu	3
 rezeki	3
-baca	3
 trendi	3
 kegunaan	4
 imaji	3
@@ -3437,8 +3493,11 @@ percuma	4
 gemar	5
 sput	4
 merakit	3
+struk	2
+include	2
 bertanduk	3
 anjung	4
+asli	4
 membubuhkan	4
 jasa	4
 jidur	3
@@ -3489,7 +3548,6 @@ menangkap	3
 tersohor	5
 bawaan	3
 porsi	4
-ambilan	3
 dengar pendapat	3
 tajali	3
 anggar	3
@@ -3507,7 +3565,7 @@ emosi	3
 memuai	3
 hasil	3
 muhibah	4
-bangga	3
+bangga	1
 sepada	3
 kikir	4
 bantalan	3
@@ -3526,6 +3584,7 @@ menceritakan	3
 muwafakat	3
 tambahan	5
 inventif	4
+non personal	3
 bersulur	3
 abah	3
 berkinte	3
@@ -3586,7 +3645,6 @@ form	5
 merah	4
 sederhana	5
 imei	5
-bantu masyarakat 4
 asri	4
 takzim	3
 potensi	3
@@ -3602,22 +3660,23 @@ memaklumi	3
 penghargaan	4
 pangkat	5
 semak-semak	3
+nyangkut	2
 pusat	3
 seia	3
 lepek	3
 dedengkot	3
 billing	5
 mengiler	3
-pajak volume	5
 konco	4
 lelah	4
 bergengsi	4
 local	1
-murah	3
+murah	1
 perbentrokan	5
 bijih	3
 campur	5
 berkeinginan	3
+dapet ganti	4
 paheman	4
 terikat	3
 rias	3
