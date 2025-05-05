@@ -18,6 +18,7 @@ absorpsi	-1
 linu	-4
 salah benang	-1
 sakit	-5
+ribu pajak ribu	-5
 lara	-5
 zuhud	-1
 mencederai	-4
@@ -33,7 +34,6 @@ lever	-2
 kasian	-3
 rubicon	-4
 gamau	-4
-baju kasih	-4
 pajak volume	-5
 doang	-1
 pulas	-1
@@ -95,6 +95,7 @@ kasih sayang	-1
 kekaguman	-1
 dendam berahi	-4
 rindu	-3
+disederhanain	-5
 afeksi	-2
 cinta kasih	-1
 renjana	-2
@@ -103,6 +104,7 @@ tresna	-1
 filantropi	-1
 cintrong	-1
 cetusan	-1
+dendam	-2
 katanya	-1
 rintisan	-2
 kronologi	-1
@@ -123,8 +125,11 @@ gacoan	-2
 tambatan hati	-2
 sir-siran	-2
 malam	-1
+premen seragam	-5
 tayib	-1
+jamur	-5
 tayibah	-1
+nol	-5
 necis	-1
 estetis	-1
 baper	-4
@@ -140,6 +145,7 @@ kecil hati	-4
 bertelinga merah	-3
 tersirap hatinya	-2
 merah telinga	-3
+mendag zulkifli hasan tum	-5
 mencak-mencak	-5
 gaada	-3
 manjur	-1
@@ -218,6 +224,7 @@ pecat	-5
 itungin	-4
 mahal	-5
 badmood	-5
+jastiper keluarga	-3
 gara	-2
 piala	-5
 gift	-3
@@ -226,10 +233,15 @@ goblok	-5
 kado	-2
 sukar	-3
 oknum	-4
+syirik	-5
+pindah	-5
 hedon	-5
 pindah negara	-5
-viral	-3
+viral	-5
+piala Jepang-5
 usut	-3
+bayar uang	-3
+ditanyai bawa ang	-3	
 waris	-2
 brengsek	-5
 keyang	-5
@@ -240,6 +252,7 @@ selisih	-4
 janggal	-5
 kpk	-3
 copot	-4
+buset	-5
 becuk	-1
 senjang	-4
 pajak	-1
@@ -261,6 +274,7 @@ nol	-3
 nyari	-2
 jabat	-2
 sorry	-4
+pasming	-4
 peranakan	-3
 bastar	-2
 tega	-5
@@ -280,7 +294,7 @@ sampai hati	-2
 bersungguh-sungguh	-1
 tren	-2
 kasus	-3
-wajah yaman	-5
+wajah	-5
 menyembur	-3
 tindak	-4
 imbas	-4
@@ -290,6 +304,7 @@ rahayu	-2
 kemungkinan	-1
 menggusari	-3
 mencurat	-1
+yaman	-5
 memarahi	-5
 topan	-3
 tembis	-3
@@ -650,15 +665,23 @@ astagfirullah	-4
 memudahkan	-1
 titip api	-1
 mencebikkan	-3
+praktek	-4
+korun	-4
 fokus	-2
 menahankan	-2
+turun daya beli	-5
 resistan	-2
 mengentengkan	-2
 astaga	-4
+informasi mafia	-5	
 maapin	-4
+arogansi pamer baju	-5
+sakit hati	-5
 berat tangan	-4
 berat hati	-4
+marak rokok illegal	-5
 lembam	-4
+rugi	-5
 macem	-2
 realitas	-3
 alpa	-3
@@ -1022,7 +1045,7 @@ penghinaan	-5
 kurung	-3
 mengecilkan	-3
 cemooh	-5
-malu	-4
+malu	-5
 mengumpat	-4
 terabai	-3
 mencemooh	-5
@@ -1036,6 +1059,7 @@ berkerak	-2
 kedaifan	-3
 kehinaan keaiban	-4
 kontras	-3
+ecdnya	-4
 mengejek	-4
 perang	-3
 perundungan	-4
@@ -1106,6 +1130,7 @@ keramat	-3
 campur aduk	-2
 ricuh	-4
 soms	-4
+kakak daftar	-2
 stress	-5
 kemayu	-3
 mencangkum	-3
@@ -1223,15 +1248,21 @@ mimpiin	-2
 susila	-2
 begadang	-3
 eks	-3
+penerbangansebab	-4
+inibisa	-4
 mudarat	-5
 delete	-3
 cerewet	-5
+lupa	-2
 berahi	-5
 patah	-4
+tanggung ehe	-5
 jerawat	-3
 bawel	-4
 pudar	-3
 teganya	-4
+resiko	-5
+iPhone	-1
 menghilang	-3
 hamburan	-3
 rongsokan	-3
@@ -1478,12 +1509,14 @@ mencemaskan	-3
 paranormal	-2
 merecoki	-3
 demo	-3
+dibenerin agak	5
 lost	-3
 gangguin	-3
 melankolis	-2
 kabut	-2
 kabur	-2
 protes	-3
+copot doang	-5
 melupakanmu	-3
 mengusili	-3
 jealous	-3
@@ -1691,6 +1724,7 @@ tuyul	-4
 meremehkan	-5
 digantung	-3
 ketaatan	-1
+senyum kamera	-5
 intrik	-3
 pdhal	-2
 kerat	-1
@@ -1759,11 +1793,15 @@ tembakau	-3
 kerjain	-3
 suspend	-3
 mayat	-4
+alat kencing	-5
 eksplisit	-2
 buah simalakama	-3
 biarkan	-3
 salah langkah	-3
+ganggu banget	-5
 mumet	-4
+ribetnya	-5
+ngerepotin	-5
 debu	-3
 itunya	-2
 melipur	-3
@@ -1998,7 +2036,6 @@ kesenduan	-2
 elegan	-1
 penjelmaan	-3
 konsekuensi	-3
-lapang hati	-1
 pajak	-3
 yodah	-2
 gagal	-4
@@ -2323,6 +2360,7 @@ galak panas	-3
 sungkap	-3
 ecer	-2
 mungut	-2
+susah banget	-5
 tumpah hati	-3
 rang	-3
 hina rendah	-3
@@ -2438,7 +2476,7 @@ tegur	-3
 latih	-2
 korek	-4
 yg tuan	-3
-lupa	-3
+lupa	-5
 alir udara	-1
 tegun	-3
 konspirasi	-4
@@ -2619,6 +2657,7 @@ lanyak	-3
 curu	-3
 tekan	-3
 nista	-5
+ibumohon	-2
 sumbat	-3
 tumpang tinggal	-4
 erik	-3
@@ -2637,7 +2676,7 @@ noda	-4
 langah	-3
 langau	-4
 taksir	-1
-beda	-2
+beda	-1
 hambur	-3
 tangkap basah	-3
 bandung	-1
@@ -2841,6 +2880,7 @@ genitalia	-3
 sigar	-3
 pengungkit	-3
 fadihat	-5
+naik	-1
 indehoi	-3
 ta	-3
 akik	-3
@@ -2886,6 +2926,7 @@ bermukah	-4
 sampean	-4
 jendera	-4
 menggelabu	-4
+slb	-5
 bedol	-4
 pemakai bahasa	-3
 arca	-3
@@ -3459,6 +3500,7 @@ ledekan	-5
 arah	-4
 pohon	-4
 rumor	-5
+mohon informasi	-3
 aram	-3
 menimangkan	-3
 jelingah	-3
@@ -3627,6 +3669,7 @@ getol	-3
 mengebiri	-3
 merapatkan	-3
 batil	-4
+malak	-1
 ketelanjuran	-5
 siksaan	-5
 setip	-3
@@ -3710,18 +3753,27 @@ menyerobot	-5
 menghamuni	-5
 tidak bekerja	-4
 jerum	-4
+adu berita	-5
+migran	-3
 kena sanksi	-5
 skors	-3
+mending	-1
+pmi laku	-5
+isi online	-3
+biar susah	-5
 koper	-2
 inch	-1
 dibenerin kagak	-5
 panjangpanjang	-5
+urus preman	-5
 enak telan pahitkatanya	-5
 saru	-5
 pailit	-1
 ancooorrr	-2 
 cetera	-4
 malak	-5
+rampok seragam	-5
+kali jam	-5
 bunting	-5
 dapathehehetinggal	-5
 jelek	-5
@@ -3732,7 +3784,6 @@ licin	-1
 hancur	-2
 usut	-5
 gelar tikar	-3
-bandara	-1
 selidik	-5
 najisssss	-5
 viral aman	-5
@@ -4498,7 +4549,7 @@ menyembulkan	-3
 tobak	-3
 ampela	-5
 luar biasa	-4
-hidup	-4
+hidup	-2
 terang	-3
 menyembam	-4
 menggentarkan	-4
@@ -6029,16 +6080,23 @@ hardikan	-5
 kanak-kanak anyir	-3
 menimbang	-3
 menyatu	-4
+adegan	-5
+serah	-2
 meragu	-4
 berdasarkan	-4
 mencirit	-5
 lungse	-4
 cerabah	-5
 orang halus	-4
+kudune isin	-5
+ngertani	-3
+setor absen	-5
+cengangas cengenges	-5
 bufer	-3
 mengabar	-5
 sempurna	-3
 kerajaan	-3
+nggateli	-5
 bimbing	-3
 buas	-5
 berkuat	-4
@@ -6661,7 +6719,9 @@ gerenyot	-4
 menghitamkan	-4
 berlebih	-3
 derum	-4
+Harga juta	-5
 memberangsangkan	-4
+peiksa ya buk	-5
 genap	-3
 mencoreng	-4
 musnah	-5
@@ -6675,7 +6735,6 @@ menyorong	-3
 akwkwkq	-3
 megatron 	-5
 moga	-5
-jeng jeng	-5
 kecerobohan	-5
 genah	-5
 mengemu	-3
