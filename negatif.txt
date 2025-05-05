@@ -671,10 +671,10 @@ menahankan	-2
 turun daya beli	-5
 resistan	-2
 mengentengkan	-2
-astaga	-4
-informasi mafia	-5	
-maapin	-4
-arogansi pamer baju	-5
+astaga  -4
+mafia  -5	
+maapin  -4
+arogansi pamer baju  -5
 sakit hati	-5
 berat tangan	-4
 berat hati	-4
