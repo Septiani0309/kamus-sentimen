@@ -25,6 +25,7 @@ lara	-5
 zuhud	-1
 mencederai	-4
 mengingkari	-4
+yaiyalah  -5
 maaf	-3
 rubiccon	-3
 mengkhianat	-4
@@ -3979,7 +3980,7 @@ begu	-4
 bertikai pangkai	-4
 harap-harap cemas	-3
 warita	-4
-bawa	-3
+bawa	-1
 mempermudah	-3
 merobohkan	-5
 besar rabu	-3
@@ -4051,8 +4052,8 @@ menakutkan	-4
 berangkal	-3
 tertenung	-3
 empap	-3
-prosedur	-1
 bernas	-3
+prosedur  -1
 hop	-5
 terpendam	-5
 syair	-3
@@ -6127,7 +6128,7 @@ kanak-kanak anyir	-3
 menimbang	-3
 menyatu	-4
 adegan	-5
-serah	-2
+serah	-5
 meragu	-4
 tanyaknp  -5
 berdasarkan	-4
