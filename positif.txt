@@ -361,7 +361,7 @@ pemudaan	2
 masygul	3
 Jakarta laku	4
 gelebah	2
-mending	5
+mending	2
 regenerasi	4
 simpel	3
 sirap hati	1
@@ -1549,7 +1549,6 @@ berjaga-jaga	1
 personalitas	1
 diam	1
 perataan	2
-bubar	1
 persediaan	3
 kesediaan	1
 cium	3
@@ -2223,7 +2222,7 @@ preinan	3
 absorpsi	3
 kemangkakan	3
 warok	3
-paket	4
+paket	1
 preseden	4
 bersanggama	5
 endut-endut	3
@@ -2283,7 +2282,6 @@ tanya jawab	3
 stop	3
 mengimbuhi	3
 penongkat	3
-faktanyakalo	4
 freightcostnya	1
 ekstremis	3
 khayalan	4
