@@ -46,6 +46,7 @@ kalau	-1
 maunya	-1
 seandainya	-1
 marilah	-1
+sidak  -4
 bener	-1
 yaudah	-4
 nggak	-3
@@ -1053,9 +1054,13 @@ merem	-2
 lock	-2
 melecehkan	-5
 kelemahan	-4
+akherat  -5
+ulang invoice  -5
+lupa masuk  -5
 kejelekan	-5
 ngilang	-3
 berkerak	-2
+ecdnya   -5
 kedaifan	-3
 kehinaan keaiban	-4
 kontras	-3
@@ -1821,7 +1826,7 @@ stalking	-4
 naudzubillah	-5
 keling	-3
 susuk	-4
-kencing	-3
+kencing	-5
 awan kelabu	-3
 gemuruh	-3
 fresh	-2
@@ -1943,6 +1948,9 @@ menyodok	-3
 sotau	-4
 pitnah	-3
 yelah	-3
+kinerjanyatidak  -5
+gantung  -5
+layan standar sih  -5
 diduain	-3
 nyet	-4
 pendek tali	-4
@@ -2279,7 +2287,8 @@ suci	-1
 lesit	-1
 rebak	-3
 satu	-1
-susah	-3
+susah	-4
+biar susah  -5
 balik	-3
 lancar	-2
 kobar	-2
@@ -2290,7 +2299,9 @@ celah	-3
 junjung	-2
 bopong	-3
 aduk	-3
+adegan  -5 
 gelicik	-3
+nyangkut  -5
 mutu	-1
 tangkis	-3
 itu	-2
@@ -2516,6 +2527,10 @@ sengaja	-2
 takut	-4
 geleng	-3
 selulur	-2
+gabagus  -5
+tukang parkir  -5
+malakin  -5
+becuk  -5
 suap	-3
 sembarang	-4
 gelesot	-3
@@ -5502,7 +5517,7 @@ mendiskreditkan	-4
 kendatipun	-3
 pasak	-4
 berkolusi	-5
-buka	-3
+buka	-5
 izin	-4
 garib	-4
 menghirup	-3
@@ -6083,6 +6098,7 @@ menyatu	-4
 adegan	-5
 serah	-2
 meragu	-4
+tanyaknp  -5
 berdasarkan	-4
 mencirit	-5
 lungse	-4
