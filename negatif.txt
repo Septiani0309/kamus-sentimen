@@ -8,6 +8,7 @@ larat hati	-3
 nelangsa	-3
 rubiccon  -5
 remuk redam	-5
+audit audit  -5
 tidak segan	-2
 gemar	-1
 tak segan	-1
@@ -28,8 +29,10 @@ maaf	-3
 rubiccon	-3
 mengkhianat	-4
 mencelakai	-5
-mulu	-1
+mulu	-5
+rugi  -5
 ngga	-2
+marak  -5
 borong	-1
 lever	-2
 kasian	-3
@@ -106,6 +109,8 @@ pagina	-2
 tresna	-1
 filantropi	-1
 cintrong	-1
+denda  -5
+freetime  -1
 cetusan	-1
 dendam	-2
 katanya	-1
@@ -152,6 +157,7 @@ mendag zulkifli hasan tum	-5
 mencak-mencak	-5
 gaada	-3
 manjur	-1
+ploduk ploduk  -3
 mujarab	-1
 beber	-2
 singkap	-3
@@ -195,8 +201,11 @@ sakit jiwa	-4
 gendeng	-2
 berubah ingatan	-3
 sinting	-5
+neglikatene  -5
 gila	-4
+informasi mafia  -5
 sakit ingatan	-4
+baju oren  -5
 sesat akal	-2
 duh	-4
 emg	-1
@@ -240,9 +249,14 @@ syirik	-5
 pindah	-5
 hedon	-5
 pindah negara	-5
+wkk  -5
 viral	-5
 piala Jepang-5
 usut	-3
+anjir  -5
+mewah  -5
+serah swasta  -5
+suka cari salah  -5
 bayar uang	-3
 waris	-2
 brengsek	-5
@@ -306,6 +320,8 @@ rahayu	-2
 kemungkinan	-1
 menggusari	-3
 mencurat	-1
+kendala  -5
+latih  -1
 yaman	-5
 memarahi	-5
 topan	-3
@@ -656,7 +672,6 @@ melancarkan	-2
 menistakan	-5
 leave	-3
 melicinkan	-2
-murah	-2
 spam	-3
 mentang	-3
 kepo	-3
@@ -1010,14 +1025,21 @@ jabang bayi	-3
 membinasakan	-5
 berdalih	-4
 why	-2
+gileee  -5
 modus	-3
 waduh	-3
 cuti	-2
+harga jual online  -5
 bobrok	-5
 tidurin	-2
 cariin	-2
+bubar  -5
 mengandut	-3
+cepet kaya  -5
 berdengung	-3
+niat  -2
+bikin kesel   -5
+kunci  -3
 bakar	-3
 mengganyang	-4
 merusakkan	-4
@@ -2672,7 +2694,7 @@ lanyak	-3
 curu	-3
 tekan	-3
 nista	-5
-ibumohon	-2
+ibumohon	-5
 sumbat	-3
 tumpang tinggal	-4
 erik	-3
@@ -3328,7 +3350,6 @@ perguaman	-4
 telimpuh	-3
 dangkung	-3
 menyurut	-3
-mengadili	-4
 pita	-4
 membual	-4
 bijaksana	-4
@@ -3772,7 +3793,7 @@ adu berita	-5
 migran	-3
 kena sanksi	-5
 skors	-3
-mending	-1
+mending	-4
 pmi laku	-5
 isi online	-3
 biar susah	-5
@@ -3971,6 +3992,12 @@ arahan	-3
 bertanding	-4
 atas	-4
 data	-3
+menyekik  -5
+kim jong un -5
+sulit damping  -5
+gembar gembor  -5
+tekan  -5
+akibat tarif  -5
 hasan	-4
 otak udang	-5
 terdedah	-3
@@ -4196,6 +4223,7 @@ perkembangan	-4
 dugal	-5
 recehan	-4
 dobel	-3
+fungsi  -1
 kecemasan	-4
 celemotan	-4
 tanur	-4
@@ -5217,6 +5245,8 @@ sontak	-4
 gendut	-3
 gelis	-3
 bersisalak	-4
+sita  -5
+faktanyakalo  -5
 zero	-3
 melantak	-4
 bertian	-3
@@ -5503,6 +5533,7 @@ pameran	-3
 pelaksanaan	-4
 merencah	-4
 mendongkolkan	-5
+wewenang  -5
 sampul	-3
 sampuk	-3
 langis	-5
@@ -6345,15 +6376,17 @@ moncong	-3
 sentakan	-5
 bergesel	-3
 rempak	-4
+pasar gelap  -5
+jeng jeng  -5
 bangsawan	-3
 bergesek	-3
 kukur	-3
 diskredit	-4
 kelam	-4
+edar rokok ilegal  -5
 bujukan	-3
 mengamput	-3
 jahit	-5
-adil	-3
 penyalut	-3
 terpukul	-4
 teralienasi	-3
@@ -6655,6 +6688,7 @@ hancai	-5
 menggemuruh	-4
 menuguri	-3
 mulus	-5
+pasu  -5
 kitab	-3
 ilat	-5
 sempuras	-3
