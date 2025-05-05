@@ -519,6 +519,7 @@ beribadat	4
 meminta (kpd Tuhan)	3
 yoga	1
 sayid	3
+sela  1
 dapet	2
 mendoa	4
 berharap	4
@@ -583,6 +584,9 @@ beneran	3
 wewenang	2
 mojang	2
 lunch	3
+wenang  4
+mindset  3
+butuh  2
 aziz	2
 fav	5
 okay	4
@@ -1807,12 +1811,13 @@ kini	3
 lensa laptop	4
 opini	4
 turki	5
-bursa	4
+bursa	5
 hospitality industry	4
 mystery	3
 cerita	2
 cari ilmu	4
 ana	2
+komisaris  2
 tafsir	2
 laden	3
 suka	3
@@ -1820,6 +1825,7 @@ masyaallah	4
 sempat	4
 bingkis	4
 operasi	5
+diawasibiasanya  1
 pudar	2
 ikhtiar	3
 amal	4
@@ -1869,6 +1875,7 @@ daya guna	4
 buat	1
 tiada	1
 ibadat	4
+pamukkale  2
 jadi	1
 layak	3
 gelincir	1
@@ -1882,6 +1889,7 @@ nikmat	3
 awat	5
 redam	1
 luk	3
+kaos celana  3
 suplai	2
 awal	2
 sembul	1
@@ -2536,6 +2544,7 @@ transparan	3
 gubris	3
 berjaya	4
 prei	3
+prosedur 2
 pere	3
 tersendat	4
 peri	3
