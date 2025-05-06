@@ -1094,7 +1094,7 @@ antologi	1
 pengalaman	2
 rame	2
 saran	2
-adil	1
+adil	5
 fulanah	1
 coretan	2
 ketawa	4
@@ -1106,16 +1106,10 @@ mengembang	1
 selfie	2
 album	3
 kiprah	3
-mui	1
 dihati	3
-sertifikat	3
-halal	4
-informasi	3
 verbal	1
 suratan takdir	2
 stabil	3
-kulkas	2
-dagang	3
 memuji-muji	4
 lagak	2
 terindah	5
@@ -1131,7 +1125,7 @@ jatah	3
 engah	1
 untung	3
 eaa	1
-jujur	5
+jujur	4
 keras hati	1
 koleksi	1
 pertahanin	1
