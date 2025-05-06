@@ -8,7 +8,7 @@ larat hati	-3
 nelangsa	-3
 rubiccon  -5
 remuk redam	-5
-audit	-5
+audit audit  -5
 tidak segan	-2
 gemar	-1
 tak segan	-1
@@ -26,35 +26,15 @@ zuhud	-1
 mencederai	-4
 mengingkari	-4
 yaiyalah  -5
-jeng jeng	-5
-moga uang	-1
 maaf	-3
 rubiccon	-3
-neglikatene	-4
-audit	-1
-keluar usaha	-5
-freetime	-4
-change	-1
-sepet	-3
 mengkhianat	-4
 mencelakai	-5
-rokok ilegal	-2
-jangkau kunci	-2
-lawan	-1
 mulu	-5
-adil	-2
 rugi  -5
 ngga	-2
-ajar	-5
 marak  -5
 borong	-1
-aju	-3
-labuh	-4
-sodakoh	-4
-salah	-5
-kena pinalti	-5
-reply pasuk	-5
-pinalti	-4 
 lever	-2
 kasian	-3
 rubicon	-5
@@ -138,13 +118,10 @@ katanya	-1
 rintisan	-2
 kronologi	-1
 jalan buntu	-4
-ploduk ploduk	-3
 rintis	-2
 jalan bebas hambatan	-1
 purwa	-2
 lanjut umur	-3
-baju oren	-4
-bpk	-3
 bangkot	-4
 sepuh	-3
 lanjut usia	-3
@@ -212,7 +189,6 @@ ngambek	-5
 ampun	-3
 terbalik akal	-4
 tidak masuk akal	-4
-rokok illegal	-5
 gangguan jiwa	-4
 majenun	-2
 gelo	-2
@@ -220,21 +196,15 @@ gila-gila	-4
 kalap	-3
 sedeng	-2
 berubah akal	-2
-akibat	-3
-bule	-2
 serem	-5
 terlalu	-3
-larang	-4
 sakit jiwa	-4
 gendeng	-2
-Narkoba	-5
-ilegal	-5
-butuh	-3
 berubah ingatan	-3
 sinting	-5
 neglikatene  -5
 gila	-4
-informasi mafia  -3
+informasi mafia  -5
 sakit ingatan	-4
 baju oren  -5
 sesat akal	-2
@@ -1039,20 +1009,9 @@ bohong	-5
 classy	-2
 peristiwa	-2
 melumatkan	-4
-preman sragam	-4
-kunci	-3
 insiden	-4
 oon	-5
-birokrasi	-2
-kesel	-2
-golput	-4
-langgan	-2
-kurang	-2
-perasit	-5
-hambat	-5
-loker	-5
 orok	-3
-bubar	-5
 selingkuh	-5
 nungguin	-2
 bijih	-3
@@ -1115,17 +1074,17 @@ mengumpat	-4
 terabai	-3
 mencemooh	-5
 merem	-2
-lock  -2
-pas declare  -5
-kelemahan  -4
-melecehkan -5
+lock	-2
+numpuk pas declare	-5	
+melecehkan	-5
+kelemahan	-4
 ulang invoice  -5
 lupa masuk  -5
-kejelekan  -5
-ngilang  -3
-berkerak  -2
-ecdnya  -5
-kedaifan  -3
+kejelekan	-5
+ngilang	-3
+berkerak	-2
+ecdnya   -5
+kedaifan	-3
 kehinaan keaiban	-4
 kontras	-3
 ecdnya	-4
@@ -4022,21 +3981,15 @@ juragan	-4
 mengiris	-4
 vital	-4
 begu	-4
-ngoak	-5
-kantong pribai	-5
 bertikai pangkai	-4
 harap-harap cemas	-3
 warita	-4
-tindas	-5
-oknum	-5
-paket	-1
 bawa	-1
 mempermudah	-3
 merobohkan	-5
 besar rabu	-3
 surih	-3
 apatis	-5
-kumpulin penuh	-4
 menyemprot	-5
 beradu	-4
 agen rahasia	-3
@@ -4047,12 +4000,10 @@ data	-3
 menyekik  -5
 kim jong un -5
 sulit damping  -5
-pasu	-5
 gembar gembor  -5
 tekan  -5
 akibat tarif  -5
 hasan	-4
-faktanyakalo	-4
 otak udang	-5
 terdedah	-3
 asosiasi	-4
