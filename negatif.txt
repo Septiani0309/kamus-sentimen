@@ -1076,7 +1076,7 @@ mencemooh	-5
 merem	-2
 lock  -2
 numpuk pas declare  -5	
-melecehkan  -5
+melecehkan -5
 kelemahan  -4
 ulang invoice  -5
 lupa masuk  -5
