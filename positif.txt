@@ -1074,12 +1074,12 @@ maklum	3
 kebijakan	3
 sepatutnya	2
 beranda	1
-permenungan	2
-rapal	1
+permenungan 2
+rapal  1
 kemiripan	2
 tertawa	5
-sadar	2
-berkarya	3
+sadar  2
+berkarya  3
 sewajarnya	2
 lumayan oke	4
 kali	2
