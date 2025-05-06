@@ -1074,17 +1074,17 @@ mengumpat	-4
 terabai	-3
 mencemooh	-5
 merem	-2
-lock	-2
-numpuk pas declare	-5	
-melecehkan	-5
-kelemahan	-4
+lock  -2
+numpuk pas declare  -5	
+melecehkan  -5
+kelemahan  -4
 ulang invoice  -5
 lupa masuk  -5
-kejelekan	-5
-ngilang	-3
-berkerak	-2
-ecdnya   -5
-kedaifan	-3
+kejelekan  -5
+ngilang  -3
+berkerak  -2
+ecdnya  -5
+kedaifan  -3
 kehinaan keaiban	-4
 kontras	-3
 ecdnya	-4
