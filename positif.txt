@@ -9,7 +9,7 @@ belas	2
 welas	4
 kabung	1
 rahayu	4
-maaf	2
+maaf	5
 hello	2
 promo	3
 idaman 3
@@ -34,6 +34,7 @@ dibantu	2
 makasih	4
 halo	1
 thanks	3
+achkenapa rada	5
 pengembangan	3
 diva	2
 punya	3
@@ -144,7 +145,7 @@ berkeyakinan	3
 beriman	3
 percaya 5
 menghajatkan	1
-senyum	2
+senyum	5
 haloo	3
 menarik hati	3
 cedayam	2
@@ -378,11 +379,16 @@ akses lapor	4
 puspita	3
 pelengkap	2
 perempuan cantik	5
+laku	5
+model	3
 sewot	1
+bagus	2
 gusar	1
 hiasan	3
 kesuma	3
+banget	1
 primadona	5
+sederhana	4
 tulus ikhlas	5
 senyuman	4
 lugas	4
@@ -1434,6 +1440,7 @@ kebaikan	4
 menyempurnakan	3
 majubersama	3
 oportunitas	3
+gabagus	4
 dialog	1
 standardisasi	2
 jualan	1
@@ -1513,7 +1520,11 @@ diajak	1
 memfasilitasi	2
 mempersiapkan	1
 girang	3
+ijin kaget	2
+layakmendapatkan	3
+apresiasi	2
 imam	1
+Malaysia	1
 terpesona	4
 disayang	3
 mampu	2
@@ -1739,24 +1750,29 @@ simpat	4
 srimul	2
 teguh hati	3
 mata cahari	2
+bebas	4
 heboh	1
 sempurna	3
 erti	2
+attitude	5
+youmalu	4
 cengkeram	1
 luang	2
+ramah	5
 kirim	2
 tukar pikir	3
 ringan	2
 nyali	4
 ahli	3
+kece	5
 kayak ahli	3
 laut pmi	5
 gapai	3
 nyala	2
 angkut	1
-sajaudah	4
-akherat	3
-cuti	2
+sajaudah	5
+akherat	5
+cuti	5
 komitmen	5
 bebas	1
 semangat	5
@@ -1779,6 +1795,7 @@ tahu	4
 isi	2
 manfaat	5
 masyhur	4
+layan Kelola	5
 orang kerja	5
 hidup orang	3
 pergi	4
@@ -1796,9 +1813,11 @@ saru	1
 administrative	4
 para	2
 profesional  2
-senyum  3
+senyum  5
 sangkut	2
 taruh hati	3
+staf operasi	5
+media	5
 alam	2
 diawasibiasanya	4
 selesai	2
@@ -2182,8 +2201,11 @@ perangsang	3
 kawakan	5
 azamat	4
 sekar	5
+sela sibuk	5
 menggemparkan	4
 angan	3
+diawasibiasanya	5
+suka kambuh	5
 menurut	4
 sekah	3
 meramalkan	3
@@ -2271,6 +2293,7 @@ gajak	4
 bisikan	4
 bakir	4
 kenduri	4
+komisaris sempat	5
 tangkisan	3
 bersengat	5
 tektokan	5
@@ -2385,8 +2408,10 @@ atasan	3
 studi	4
 fusi	4
 meluluskan	3
+urus	4
 tepat guna	4
 suntuk	5
+lumayan oke	5
 seibu	3
 kegirangan	3
 rembukan	3
@@ -2400,8 +2425,11 @@ lindu	4
 lantip	3
 daya tahan	5
 bergas	5
+sadar pas	5
 kepintaran	4
 cucu Adam	3
+celana	5
+hotel	4
 kepelesiran	3
 sangkil	4
 endus	3
@@ -2419,7 +2447,10 @@ bertanya-tanya	4
 kegiatan	3
 pemufakatan	4
 kimah	5
+pantau service	5
+terdeliver	4
 surat tanah	3
+evaluasi	5
 moral	4
 kundangan	5
 salim	4
@@ -2428,6 +2459,7 @@ keriangan	4
 estetik	4
 murid	3
 runtut	3
+inti uang	5
 mendidik	3
 umi	4
 sukat	3
@@ -2887,6 +2919,8 @@ pengenalan	5
 labiovelar	4
 penggabungan	3
 langsung	3
+bangga maaf	4
+wenang ya	3
 kroni	4
 sregep	4
 sangka	3
@@ -3111,6 +3145,7 @@ prasarana	3
 menyandar	4
 wasiat	4
 bisnis	3
+duit	5
 langkah	4
 tongkeng	5
 menguntir	4
@@ -3200,18 +3235,25 @@ selesa	3
 struktur	3
 terpuji	4
 ricuh	3
+cegah tindak	5
 ajudan	4
 wagu	4
 mengononkan	3
 perbaikan	3
 tabah	5
 gemi	3
+evaluasi	5
 tenaga kerja	3
+citra	5
 pendahuluan	3
 menghebohkan	4
 ranum	5
+awas	5
 lembek	5
+ex inter	5
 kejuruan	3
+maju proses	5
+dapat ganti	5
 lektur	4
 berbetulan	3
 sukar	4
@@ -3219,8 +3261,10 @@ pilihan	5
 semu	3
 rezeki	3
 trendi	3
+cumin	1
 kegunaan	4
 imaji	3
+malu	5
 bahaduri	4
 semringah	4
 wirid	4
@@ -3228,8 +3272,10 @@ cokol	4
 energik	5
 pemantapan	4
 makruf	4
+ijin	5
 melisankan	3
 teraso	4
+Bawah usd	5
 intensi	3
 gutuk	4
 terkadang-kadang	3
@@ -3582,6 +3628,7 @@ sepada	3
 kikir	4
 bantalan	3
 menggambari	3
+lancar jalan	5
 cedok	3
 daya cipta	4
 benak kepala	3
@@ -3592,6 +3639,7 @@ sadu	3
 prigel	4
 perkolasi	3
 jarak	3
+coba rakyat	5
 menceritakan	3
 muwafakat	3
 tambahan	5
