@@ -1075,9 +1075,9 @@ terabai	-3
 mencemooh	-5
 merem	-2
 lock	-2
+numpuk pas declare	-5	
 melecehkan	-5
 kelemahan	-4
-akherat  -5
 ulang invoice  -5
 lupa masuk  -5
 kejelekan	-5
@@ -1746,6 +1746,7 @@ kesiannya	-4
 denyut	-2
 terpeleset	-4
 terselusur	-3
+layan standar	-3
 ihhhh	-3
 bobroq	-4
 tuyul	-4
@@ -1755,6 +1756,7 @@ ketaatan	-1
 senyum kamera	-5
 intrik	-3
 pdhal	-2
+alat kencing	-5
 kerat	-1
 raiso	-3
 excited	-1
@@ -2256,6 +2258,7 @@ pihak	-3
 apa	-3
 cebik	-3
 kesi	-3
+wajib	-4
 anda	-1
 ekspos	-4
 lutut	-2
@@ -2263,13 +2266,14 @@ suara	-1
 dalih	-4
 apas	-3
 hilang ingat	-4
+penerbangansebab	-5
 desir	-2
 hendak	-1
 kusut	-4
 menung	-3
 wara	-3
 keruh	-4
-gampang	-3
+gampang	-5
 sengal	-4
 kerumit	-5
 tugas	-1
@@ -2279,7 +2283,6 @@ ancam	-4
 nyata	-2
 ganggu jiwa	-4
 kerut	-2
-heran	-3
 jatuh	-3
 jalan bebas hambat	-1
 uar	-3
@@ -2324,7 +2327,7 @@ bopong	-3
 aduk	-3
 adegan  -5 
 gelicik	-3
-nyangkut  -5
+nyangkut  -1
 mutu	-1
 tangkis	-3
 itu	-2
@@ -3811,6 +3814,7 @@ cetera	-4
 malak	-5
 rampok seragam	-5
 kali jam	-5
+kinerjanyatidak	-5
 bunting	-5
 dapathehehetinggal	-5
 jelek	-5
@@ -4048,12 +4052,13 @@ gagar	-3
 rayuan	-3
 gawat	-5
 mengada-ada	-4
+diikutin	-5
 menakutkan	-4
 berangkal	-3
 tertenung	-3
 empap	-3
 bernas	-3
-prosedur  -1
+prosedur  -3
 hop	-5
 terpendam	-5
 syair	-3
@@ -4093,6 +4098,7 @@ bertetesan	-3
 cacing es	-4
 beguk	-4
 bongkak	-3
+mantap	-1
 kalor	-4
 batu berdahak	-4
 gegap	-5
@@ -4220,6 +4226,8 @@ perlahan-lahan	-4
 onyak-anyik	-4
 merembet	-4
 fungsionaris	-3
+mending isi	-4
+online	-1
 perkembangan	-4
 dugal	-5
 recehan	-4
@@ -4234,6 +4242,7 @@ anu	-3
 persuasi	-3
 welas	-3
 mangau	-4
+ramah ya iya	-5
 ulung	-4
 seraga	-3
 bait	-3
@@ -5824,6 +5833,8 @@ embah	-3
 sabil	-4
 terpuruk	-4
 manifestasi	-3
+kecewa	-5
+kecea banget	-5
 pembarut	-3
 memantang	-4
 sabit	-3
@@ -6127,7 +6138,11 @@ hardikan	-5
 kanak-kanak anyir	-3
 menimbang	-3
 menyatu	-4
+solusi	-1
+pergi	-3
 adegan	-5
+gor	-4
+absen tok	-5
 serah	-5
 meragu	-4
 tanyaknp  -5
@@ -6136,7 +6151,8 @@ mencirit	-5
 lungse	-4
 cerabah	-5
 orang halus	-4
-kudune isin	-5
+kudune	-5
+isin	-5
 ngertani	-3
 setor absen	-5
 cengangas cengenges	-5
