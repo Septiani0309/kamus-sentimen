@@ -527,8 +527,13 @@ yoga	1
 sayid	3
 sela  1
 dapet	2
+bebas pajak  5
+bos  5
+ramah ya  5
+mending jual  4
 mendoa	4
 berharap	4
+imeinya ecdnya  5
 berdoa	4
 bersembahyang	5
 berselawat	3
@@ -553,6 +558,7 @@ bersangkut	1
 mencolok	2
 pasar uang	2
 memikat	2
+izin semsial  5
 taut	2
 menarik	4
 hebring	3
@@ -613,11 +619,15 @@ lunas (kapal	2
 senyum	2
 audiens	4
 apresiasi	5
+janji ngantrinya  5
 rt international	4
 lancer	2
+tuju hindar   5
 rebah	2
+shoope toko  5
 reparasi	3
 daftarin	3
+tolong cari  5
 gontai	1
 sederhana	5
 tumpuan	2
@@ -699,6 +709,7 @@ fokus	3
 bebodoran	2
 lahir	3
 deket	1
+iklan doang  5
 dewasa	2
 menikah	4
 tekad	4
@@ -707,6 +718,7 @@ berpembawaan	1
 pertukaran	1
 dagelan	3
 kasad	1
+moga iklan  5
 kelucuan	3
 keduniaan	1
 tawakal	3
@@ -732,6 +744,7 @@ pamit	2
 ekstra	3
 bermohon	3
 berdua	1
+kasih hpnya  5
 angguk	1
 bepergian	1
 joli	1
@@ -781,7 +794,9 @@ berbagi	2
 kabar	2
 tiara	3
 lancar	1
+karawang  4
 lanjutkan	1
+isi bagasi  5
 baik-baik	3
 pelancar	2
 say	1
