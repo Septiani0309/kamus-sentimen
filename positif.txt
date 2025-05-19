@@ -12,10 +12,13 @@ rahayu	4
 maaf	5
 hello	2
 promo	3
+indonesia  1
 idaman 3
 terimakasih	5
 cover	3
 mohon	2
+ya iya  3
+janji  2
 mengawal	2
 statistik	1
 keluangan	3
@@ -386,8 +389,10 @@ bagus	2
 gusar	1
 hiasan	3
 kesuma	3
+tolong cari  5
 banget	1
 primadona	5
+negeri imeinya  4
 sederhana	4
 tulus ikhlas	5
 senyuman	4
