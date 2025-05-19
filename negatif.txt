@@ -3879,6 +3879,9 @@ sebaran	-3
 nikah	-3
 ceku	-5
 dengkul	-3
+wenang  -5
+telusur  -5
+biar kakak  -5
 cabut	-5
 kemurungan	-5
 jalan tol	-4
@@ -3964,6 +3967,7 @@ mungkir	-5
 becus	-4
 terzalimi	-5
 pelantikan	-3
+nilai batas  -5
 kisruh	-3
 memedi	-4
 gas	-4
@@ -3974,6 +3978,8 @@ berak	-4
 akidah	-3
 rayu	-4
 imbang	-3
+habis  -4
+duta  -2
 senging	-5
 setimbang	-3
 mengirik	-3
